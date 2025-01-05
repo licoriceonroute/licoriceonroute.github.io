@@ -1,4 +1,4 @@
-# licoriceonroute.github.io
+licoriceonroute.github.io
 This site is for cataloguing my trips from years past
 
 # Years
