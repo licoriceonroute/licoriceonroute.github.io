@@ -26,5 +26,5 @@ Canoe trip down the big Salmon River from Quiet Lake to Carmacks
 
 ### [Pfalz-Vosges](https://docs.google.com/document/d/11iHNRGf43F_WHS3ft4QBishdEs_5g2rtvZCAqqltvws/edit)
 #### 30.10.2024–03.11.2024 - Rheinland-Pfalz, Deutschland/Alsace, France
-Bike Trip through the largest contiguous forest in europe
+Bike Trip through the largest contiguous forest in europe - 
 [map](https://licoriceonroute.github.io/map/map-pfalz_vosges_2024)
