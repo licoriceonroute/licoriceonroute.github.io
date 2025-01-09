@@ -1,6 +1,6 @@
 licoriceonroute.github.io
 
-[home](licoriceonroute.github.io/home) - [about](licoriceonroute.github.io/about)
+[about](licoriceonroute.github.io/about)
 
 This page currently links to google docs of the trip reports
 
