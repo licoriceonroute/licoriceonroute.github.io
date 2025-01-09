@@ -1,8 +1,8 @@
 licoriceonroute.github.io
 
-This site is for cataloguing my trips from years past
+[home](licoriceonroute.github.io/home) - [about](licoriceonroute.github.io/about)
 
-currently it links to google docs of the trip reports
+This page currently links to google docs of the trip reports
 
 # Years
 
