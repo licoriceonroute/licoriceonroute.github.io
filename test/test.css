@@ -41,50 +41,50 @@ h2{
 h3{
   text-align: right;
   font-weight: 400;
-  colour: dimgray;
+  colour: dimgrey;
   font-size: 14px;
 }
 
 /* titles styles for day intros */
 
 /* day number styles */
-.dn{
+.dd{
   text-align: left;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 14px;
 }
 /* day title styles */
 .dt{
   text-align: left;
-  font-weight: 400;
+  font-weight: normal;
   font-style: italic;
   font-size: 14px;
 }
 /* day of week styles */
 .dw{
   text-align: left;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   font-size: 14px;
 }
 /* day separator styles */
 .ds{
   text-align: left;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   font-size: 14px;
 }
 /* day text bold styles */
 .db{
   text-align: left;
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
   font-size: 11px;
 }
 /* day text normal styles */
-.db{
+.dn{
   text-align: left;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   font-size: 11px;
 }
@@ -111,7 +111,7 @@ img {
     border-radius: 0px;
     padding: 0px;
     width: 70%;
-    max-width: 300px;
+    max-width: 80px;
 }
 /* figcaption styles */
 figcaption {
