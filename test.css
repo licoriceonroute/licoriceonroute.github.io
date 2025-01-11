@@ -1,0 +1,97 @@
+body{
+    background-color: SeaShell;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 10%; */
+}
+.content-wrapper{
+  margin-right: auto;
+  margin-left:  auto;
+
+  max-width: 960px; 
+
+  /*
+    padding-right: 10px; 
+    padding-left:  10px;
+  */
+  }
+
+/* paragraph styles */
+p{
+  text-align: justify;
+  width: 80%;
+  margin-left: 10%;
+  font-size: 11px;
+}
+
+/* trip title 1 styles */
+h1{
+  text-align: left;
+  font-weight: 600;
+  font-size: 26px;
+}
+
+/* trip subtitle (t2) styles */
+h2{
+  text-align: left;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+/* supertitle styles */
+h3{
+  text-align: right;
+  font-weight: 400;
+  colour: dimgray;
+  font-size: 14px;
+}
+
+/* day number styles */
+h4{
+  text-align: left;
+  font-weight: 700;
+  font-size: 14px;
+}
+/* day title styles */
+h5{
+  text-align: left;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 14px;
+}
+/* day title styles */
+h5{
+  text-align: left;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 14px;
+}
+
+
+/* figcaption styles */
+figcaption {
+  text-align: center;
+  font-size: 11px;
+}
+
+.highlight{
+    font-weight: 700;
+    color: forestgreen;
+}
+
+ul li{
+    list-style-type: square;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+
+/* img styles styles */
+img {
+  display: block;
+  margin-left: 15%;
+  margin-right: auto;
+  border: 1px solid black;
+  border-radius: 0px;
+  padding: 0px;
+  width: 70%;
+}
+
