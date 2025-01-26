@@ -59,7 +59,16 @@ h4{
   font-size: 14px;
 }
 
+
 /* titles styles for day intros */
+
+/*top level day intros styles*/
+h5{
+  text-align: left;
+  font-weight: bold;
+  font-size: 16px;
+}
+
 
 /* day number styles */
 .dd{
