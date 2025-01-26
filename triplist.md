@@ -1,8 +1,9 @@
 licoriceonroute.github.io
 
-[about](licoriceonroute.github.io/about)
+[about](https://licoriceonroute.github.io/about)
 
-This page currently links to google docs of the trip reports
+Website trip report only availbable for Pfalz-Vosges 2024
+The rest are google docs
 
 # Years
 
@@ -23,8 +24,10 @@ Bike Trip through the Slate Mountains and Franconian Switzerland
 ### [Big Salmon River](https://docs.google.com/document/d/11V13DuDUBoQP7FkMWNPCQxApQso5xQdgvNt56dpRZ7w/edit)
 #### 02.09.2024–15.09.2024 - Yukon, Canada
 Canoe trip down the big Salmon River from Quiet Lake to Carmacks
+[map](https://umap.openstreetmap.fr/en/map/big-salmon-river-2024_1123733)
 
-### [Pfalz-Vosges](https://docs.google.com/document/d/11iHNRGf43F_WHS3ft4QBishdEs_5g2rtvZCAqqltvws/edit)
+### [Pfalz-Vosges](https://licoriceonroute.github.io/report/report-Pfalz-Vosges_2024.html)
 #### 30.10.2024–03.11.2024 - Rheinland-Pfalz, Deutschland/Alsace, France
 Bike Trip through the largest contiguous forest in europe - 
 [map](https://licoriceonroute.github.io/map/map-pfalz_vosges_2024)
+[doc](https://docs.google.com/document/d/11iHNRGf43F_WHS3ft4QBishdEs_5g2rtvZCAqqltvws/edit)
