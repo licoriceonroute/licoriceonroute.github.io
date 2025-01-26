@@ -115,6 +115,13 @@ h5{
   font-style: normal;
   font-size: 14px;
 }
+/*for links*/
+.lnk{
+  text-align: center;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 16px;
+}
 
 
 
