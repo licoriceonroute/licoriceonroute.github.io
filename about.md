@@ -1,4 +1,4 @@
-[home](https://licoriceonroute.github.io) - [Trip List](https://licoriceonroute.github.io/triplist)
+[Home](https://licoriceonroute.github.io) - [Trip List](https://licoriceonroute.github.io/triplist)
 
 ## Who am I?
 someone struggling to build a website
