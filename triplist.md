@@ -20,7 +20,7 @@ Bike Trip through the Slate Mountains and Franconian Switzerland
 
 ### [Big Salmon River](https://docs.google.com/document/d/11V13DuDUBoQP7FkMWNPCQxApQso5xQdgvNt56dpRZ7w/edit)
 #### 02.09.2024–15.09.2024 - Yukon, Canada
-Canoe trip down the big Salmon River from Quiet Lake to Carmacks
+Canoe trip down the big Salmon River from Quiet Lake to Carmacks - 
 [map](https://umap.openstreetmap.fr/en/map/big-salmon-river-2024_1123733)
 
 ### [Pfalz-Vosges](https://licoriceonroute.github.io/report/report-Pfalz-Vosges_2024.html)
