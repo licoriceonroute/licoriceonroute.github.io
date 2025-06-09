@@ -27,3 +27,8 @@ Canoe trip down the big Salmon River from Quiet Lake to Carmacks
 #### 30.10.2024–03.11.2024 - Rheinland-Pfalz, Deutschland/Alsace, France
 Bike Trip through the largest contiguous forest in europe - 
 [map](https://licoriceonroute.github.io/map/map-pfalz_vosges_2024) - [doc](https://docs.google.com/document/d/11iHNRGf43F_WHS3ft4QBishdEs_5g2rtvZCAqqltvws/edit)
+
+### [Galicia](https://licoriceonroute.github.io/report/report-Galicia_2025.html)
+#### 11.05.2025-16.05.2025 - Galicia, Spain
+Bike Trip along the southern part of Galicia's Atlantic coast - 
+[map](https://licoriceonroute.github.io/map/map-Galicia_2025)
