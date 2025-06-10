@@ -1,6 +1,6 @@
 [About](https://licoriceonroute.github.io/about) - [Home](https://licoriceonroute.github.io)
 
-Website report only available for Pfalz-Vosges 2024. The rest are google docs.
+Website reports not yet available for Erfurt-Bamberg or the Big Salmon River.
 
 # Years
 
@@ -8,7 +8,7 @@ Website report only available for Pfalz-Vosges 2024. The rest are google docs.
 
 ### [Obabika Loop](https://licoriceonroute.github.io/report/report-Obabika-Loop_2022.html)
 #### 24.08.2022–29.08.2022 - Ontario, Canada
-Canoe trip of the Diamond-Obabika Loop in the Temagami Canoe Area
+Canoe trip of the Diamond-Obabika Loop in the Temagami Canoe Area - 
 [map](https://umap.openstreetmap.fr/en/map/obabika-loop_1238407)
 
 ## 2023
