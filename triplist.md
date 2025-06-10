@@ -6,9 +6,10 @@ Website report only available for Pfalz-Vosges 2024. The rest are google docs.
 
 ## 2022
 
-### [Temagami](https://docs.google.com/document/d/1DtADW0e6f6KUzvSBkJOZ66Lm0uq6OCuzPUBQr7UMPBo/edit)
-#### 23.08.2024–29.08.2024 - Ontario, Canada
+### [Obabika Loop](https://licoriceonroute.github.io/report/report-Obabika-Loop_2022.html)
+#### 24.08.2022–29.08.2022 - Ontario, Canada
 Canoe trip of the Diamond-Obabika Loop in the Temagami Canoe Area
+[map](https://umap.openstreetmap.fr/en/map/obabika-loop_1238407)
 
 ## 2023
 
