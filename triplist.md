@@ -15,7 +15,7 @@ Canoe trip of the Diamond-Obabika Loop in the Temagami Canoe Area -
 
 ### [Erfurt-Bamberg](https://licoriceonroute.github.io/report/report-Erfurt-Bamberg_2023.html)
 #### 17.09.2023–22.09.2023 - Thüringen/Bayern, Deutschland
-Bike Trip through the Slate Mountains and Franconian Switzerland
+Bike Trip through the Slate Mountains and Franconian Switzerland - 
 [map](https://umap.openstreetmap.fr/en/map/erfurt-bamberg-2023_1232954)
 
 ## 2024
