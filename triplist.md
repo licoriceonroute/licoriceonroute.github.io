@@ -13,9 +13,10 @@ Canoe trip of the Diamond-Obabika Loop in the Temagami Canoe Area -
 
 ## 2023
 
-### [Erfurt-Bamberg](https://docs.google.com/document/d/1ixeSbruw4QoJpQFzBboj7qmxbkjLjuShtiLRXxWnaZE/edit)
+### [Erfurt-Bamberg](https://licoriceonroute.github.io/report/report-Erfurt-Bamberg_2023.html)
 #### 17.09.2023–22.09.2023 - Thüringen/Bayern, Deutschland
 Bike Trip through the Slate Mountains and Franconian Switzerland
+[map](https://umap.openstreetmap.fr/en/map/erfurt-bamberg-2023_1232954)
 
 ## 2024
 
@@ -27,7 +28,7 @@ Canoe trip down the big Salmon River from Quiet Lake to Carmacks -
 ### [Pfalz-Vosges](https://licoriceonroute.github.io/report/report-Pfalz-Vosges_2024.html)
 #### 30.10.2024–03.11.2024 - Rheinland-Pfalz, Deutschland/Alsace, France
 Bike Trip through the largest contiguous forest in europe - 
-[map](https://licoriceonroute.github.io/map/map-pfalz_vosges_2024) - [doc](https://docs.google.com/document/d/11iHNRGf43F_WHS3ft4QBishdEs_5g2rtvZCAqqltvws/edit)
+[map](https://licoriceonroute.github.io/map/map-pfalz_vosges_2024)
 
 ## 2025
 
