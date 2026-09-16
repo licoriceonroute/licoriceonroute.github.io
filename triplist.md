@@ -1,6 +1,5 @@
 [About](https://licoriceonroute.github.io/about) - [Home](https://licoriceonroute.github.io)
 
-Website reports not yet available for Erfurt-Bamberg or the Big Salmon River.
 
 # Years
 
@@ -36,3 +35,10 @@ Bike Trip through the largest contiguous forest in europe -
 #### 11.05.2025-16.05.2025 - Galicia, Spain
 Bike Trip along the southern part of Galicia's Atlantic coast - 
 [map](https://licoriceonroute.github.io/map/map-Galicia_2025)
+
+## 2026
+
+### [Polska–Česko–Deutschland](https://licoriceonroute.github.io/report/report-PLCZDE_2026.html)
+#### 11.05.2025-16.05.2025 - Dolnoslaskie, Poland / Liberec & Ústí nad Labem, Czech Republic / Sachsen, Germany
+Bike Trip along the border region of Poland, Czech Republic, and Germany - 
+[map](https://umap.openstreetmap.fr/en/map/plczde-bike-trip_1434150)
